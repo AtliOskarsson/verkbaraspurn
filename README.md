@@ -1,2 +1,2 @@
 # verkbaraspurn
-## Verkefni með spurningar
+Verkefni með spurningar
