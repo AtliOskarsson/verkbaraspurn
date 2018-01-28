@@ -1,1 +1,44 @@
-llljjyftuf y fu fuy u fuy u yf 
+FORR3JS05DU - Atli Óskarsson
+
+1.
+  Template Literals er strengur sem leyfir að hafa tjáningar:
+  í staðinn fyrir
+	console.log('Röð 1\n' +
+	'Röð 2');
+	// "Röð 1
+	// Röð 2"
+  Þá er hægt að gera þetta með template literals
+	console.log('Röð 1
+	Röð 2');
+	// "Röð 1
+	// Röð 2"
+  þegar það er reiknað í texta
+	var a = 5;
+	var b = 10;
+	console.log('Fifteen is ' + (a + b) + ' and\nnot ' + (2 * a + b) + '.');
+	// "Fifteen is 15 and
+	// not 20."
+  það er miklu þægilegar að nota template literals
+	var a = 5;
+	var b = 10;
+	console.log(`Fifteen is ${a + b} and
+	not ${2 * a + b}.`);
+	// "Fifteen is 15 and
+	// not 20."
+
+
+
+2.
+  a
+
+3.
+  a
+
+4.
+  a
+
+5.
+  a
+
+6.
+  a
