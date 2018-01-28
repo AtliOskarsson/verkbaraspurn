@@ -8,8 +8,8 @@ FORR3JS05DU - Atli Óskarsson
 	// "Röð 1
 	// Röð 2"
   Þá er hægt að gera þetta með template literals
-	console.log('Röð 1
-	Röð 2');
+	console.log(`Röð 1
+	Röð 2`);
 	// "Röð 1
 	// Röð 2"
   þegar það er reiknað í texta
