@@ -26,10 +26,9 @@ FORR3JS05DU - Atli Óskarsson
 	// "Fifteen is 15 and
 	// not 20."
 
-
-
 2.
-  a
+  for statement hefur 3 hluti sem er hægt að setja í sem ákveður hve oft lykkjan er keyrð
+  
 
 3.
   a
